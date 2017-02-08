@@ -11,22 +11,7 @@ body {
   background: #f7f5f0;
 }
 header {
-  text-align:left: cover;
+  text-align: center;
   overflow: hidden;
   padding-top: 60px;
 }
- }
-header .profile-image {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
-}
-table{
-       border-collapse:collapse;
-	 }
-	 td,th{
-	 border:1px solid #999;
-	 padding:0.5rem;
-	 text-align:left;
-	 }
